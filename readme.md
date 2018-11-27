@@ -14,7 +14,9 @@ There are several ways to solve Sudoku as there are several difficulties in this
 
 ## Screenshots
 
-![alt text](http://url/to/img.png)
+![alt text](https://user-images.githubusercontent.com/39195909/49085477-1c271a00-f220-11e8-8209-4814a2356295.png)
+
+![alt text](https://user-images.githubusercontent.com/39195909/49085479-1cbfb080-f220-11e8-810a-52e32011d6a8.png)
 
 ## Link to project’s YouTube video
 
