@@ -6,7 +6,7 @@ The Sudoku is a puzzle played on a partially filled 9x9 grid. The task is to com
 
 ## Block and/or flow diagram
 
-![alt text](http://url/to/img.png)
+![alt text](https://user-images.githubusercontent.com/39195909/49187111-71ece680-f334-11e8-9400-f934ef901aa5.png)
 
 ## Technical specifications of the implemented technique
 
