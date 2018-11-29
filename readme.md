@@ -18,9 +18,9 @@ There are several ways to solve Sudoku as there are several difficulties in this
 
 ![alt text](https://user-images.githubusercontent.com/39195909/49229201-069a2780-f3bb-11e8-9f4f-54eed1ea414a.png)
 
-![alt text](https://user-images.githubusercontent.com/39195909/49229202-0732be00-f3bb-11e8-9d51-c20a3afa6af9.png)
-
 ![alt text](https://user-images.githubusercontent.com/39195909/49229301-321d1200-f3bb-11e8-9362-84c5db22f261.png)
+
+![alt text](https://user-images.githubusercontent.com/39195909/49229202-0732be00-f3bb-11e8-9d51-c20a3afa6af9.png)
 
 ## Link to project’s YouTube video
 
