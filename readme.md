@@ -20,7 +20,7 @@ There are several ways to solve Sudoku as there are several difficulties in this
 
 ## Link to project’s YouTube video
 
-[Youtube Video](https://pages.github.com/)
+[Youtube Video](https://youtu.be/WQ5SRFg-p04)
 
 # Dependencies and instructions to run the Project
 
