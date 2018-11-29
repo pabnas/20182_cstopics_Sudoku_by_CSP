@@ -10,7 +10,9 @@ The Sudoku is a puzzle played on a partially filled 9x9 grid. The task is to com
 
 ## Technical specifications of the implemented technique
 
-There are several ways to solve Sudoku as there are several difficulties in this for example the difficulty easy can be solved by pruning the most complex need of backtracking as there are various numbers that match in two or more box; the algorithm is responsible for test the check with the lowest domain (less constraint) if there is any constraint returned in the assignment of numbers and test again until find a solution
+There are several ways to solve Sudoku as there are several difficulties in this for example the difficulty easy can be solved by pruning the most complex need of backtracking as there are various numbers that match in two or more box; the algorithm is responsible for test the check with the lowest domain (less constraint) if there is any constraint returned in the assignment of numbers and test again until find a solution.
+
+The columns are define with letters from A to I, the rows are listed from 1 to 9; for the restrictions of the problem we use a dictionary that has the relations of each box for example: A1 is related to the row 1, the column A and the blocks B2,B3,C2,C3.
 
 ## Screenshots
 
